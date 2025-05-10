@@ -358,4 +358,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 
 
-Built with 💡 by [Your Name/Team Name]. Contributions and feedback are welcome!
+Built with 💡 by KWIZERA Olivier. Contributions and feedback are welcome!
